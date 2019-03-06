@@ -1,21 +1,4 @@
-﻿
-/*
- * jQuery document declairation
-*/
-
-
-jQuery(document).ready(function($) {
-//do jQuery stuff when DOM is ready
-
-});
-
-
-/*
- * IFM Subsidiaries & Trade Partners
-*/
-
-
-{
+﻿{
     "info": [ {
  "company": "ifm electronic s.r.l."
  "address": "Lola Mora 421<br>10Âº piso oficina 3<br>1107 - Puerto Madero<br>Ciudad Aut. Buenos Aires<br>Phone/Fax +54 (011) 5353-3436<br>Interior del paÃ­s: 0810-345-3436"
@@ -866,7 +849,7 @@ Skip: Luxenberg - cant find link {
  "link": ""
  "flag": "MK"
     }
-    
+
 
     {
  "company": ""
@@ -936,7 +919,7 @@ Skip: Luxenberg - cant find link {
 {
     "info": [ {
  "company": ""
- "address": "<b>Mindstorm Engineering</b><br>F-18 F-Market Imam Ahmed Road <br>Block-6 PECHS Opp Beacon House School<br>Karachi Pakistan<br>Phone +92 332-3373858 +92 344-2551023<br>support@mindstormengg.com<br>www.mindstormengg.com<br><br><b>Automation Controls (Pak)</b><br>Appt # 33 C III Chenab Block<br>Allama Iqbal Town<br>Lahore - Pakistan<br>Phone +92-42-37809948/9<br>Fax +92-42-37809950" 
+ "address": "<b>Mindstorm Engineering</b><br>F-18 F-Market Imam Ahmed Road <br>Block-6 PECHS Opp Beacon House School<br>Karachi Pakistan<br>Phone +92 332-3373858 +92 344-2551023<br>support@mindstormengg.com<br>www.mindstormengg.com<br><br><b>Automation Controls (Pak)</b><br>Appt # 33 C III Chenab Block<br>Allama Iqbal Town<br>Lahore - Pakistan<br>Phone +92-42-37809948/9<br>Fax +92-42-37809950"
  "email": "faheem@acpak.com.pk"
  "link": "www.acpak.com.pk"
  "flag": "pk"
