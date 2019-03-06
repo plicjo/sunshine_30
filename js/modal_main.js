@@ -24026,9 +24026,7 @@ $(document).ready(function(){
 
       $( ".modal").attr({ id: modalIdSubstr });
 
-      debugger;
       $.getJSON("/Modal Data Info/brands.json", function( data ) {
-	debugger;
           address = "<p>"+data[modalBrand].address+"</p>";
 
           if(data[modalBrand].email) {
